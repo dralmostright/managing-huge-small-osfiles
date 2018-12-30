@@ -1,6 +1,6 @@
 #################################################################################
 ## Author : Suman Adhikari                                                     ##
-## Company : Nepasoft Solutions                                                ##
+## Company : XXXXXXXXXXXXXXXXXX                                                ##
 ## Date : 2017-04-26                                                           ##
 #################################################################################
 ## Description of variables                                                    ##
